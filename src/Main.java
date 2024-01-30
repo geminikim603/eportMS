@@ -24,6 +24,6 @@ public class Main {
         System.out.println("Project Name : eportMS .... 888 : 2022-09-27 1001...");
         
      // delete and commit push again ...
-        System.out.println("Project Name : eportMS .... 999 : 2024-01-01 1008...01");    
+        System.out.println("Project Name : eportMS .... 999 : 2024-01-01 1008...0102");    
     }
 }
